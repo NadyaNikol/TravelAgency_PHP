@@ -1,0 +1,1 @@
+[{"hotel":"Lara Barut","country":"Canada","city":"Ghent","price":"222","stars":"4"}]
